@@ -37,7 +37,6 @@ header .container {
   align-items: center;
   justify-content: space-between;
   padding: 6rem 0;
-  color: var(--primary);
 }
 
 h1 {
